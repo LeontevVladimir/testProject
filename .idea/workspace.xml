@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1d03cfa-b5e7-467e-a831-15804877fce4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" notify_if_session_was_finished_without_being_paused="false" />
+  <component name="PhpServers">
+    <servers>
+      <server host="testfast.loc" id="7baf657e-27d4-4ff6-9f20-6f111f7b3e50" name="testfast.loc" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2tdzgV1gXySI7yBZGX1AJTo1j0b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.php.executor": "Debug",
+    "Node.js.alert.js.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/vova8/projects/TestFast.loc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/TestFast.loc/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="alert.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/alert.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.php" />
+      <item itemvalue="Node.js.alert.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="Node.js.alert.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PS-243.23654.168" />
+        <option value="bundled-php-predefined-a98d8de5180a-4c3855d0ab16-com.jetbrains.php.sharedIndexes-PS-243.23654.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1d03cfa-b5e7-467e-a831-15804877fce4" name="Changes" comment="" />
+      <created>1740696850313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740696850313</updated>
+      <workItem from="1740696851413" duration="15000" />
+      <workItem from="1740696867142" duration="32000" />
+      <workItem from="1740763292005" duration="10000" />
+      <workItem from="1740831541113" duration="14000" />
+      <workItem from="1741039166349" duration="672000" />
+      <workItem from="1741215099309" duration="2634000" />
+      <workItem from="1741272287402" duration="25551000" />
+      <workItem from="1741364209897" duration="8952000" />
+      <workItem from="1741402967550" duration="32069000" />
+      <workItem from="1741813331935" duration="1230000" />
+      <workItem from="1741827851155" duration="6466000" />
+      <workItem from="1741891131458" duration="12268000" />
+      <workItem from="1741938703319" duration="11379000" />
+      <workItem from="1742029136011" duration="3851000" />
+      <workItem from="1742053961866" duration="2515000" />
+      <workItem from="1742092208307" duration="25285000" />
+      <workItem from="1742139292756" duration="870000" />
+      <workItem from="1742143643431" duration="605000" />
+      <workItem from="1742144627000" duration="50000" />
+      <workItem from="1742144817633" duration="661000" />
+      <workItem from="1742185516110" duration="19406000" />
+      <workItem from="1742225171350" duration="6979000" />
+      <workItem from="1742268672221" duration="9223000" />
+      <workItem from="1742297763795" duration="11674000" />
+      <workItem from="1742356477280" duration="10039000" />
+      <workItem from="1742386149947" duration="6385000" />
+      <workItem from="1742453685589" duration="7969000" />
+      <workItem from="1742468680607" duration="16811000" />
+      <workItem from="1742494209669" duration="153000" />
+      <workItem from="1742542929877" duration="2888000" />
+      <workItem from="1742553374217" duration="2839000" />
+      <workItem from="1742581086100" duration="192000" />
+      <workItem from="1742626885810" duration="7435000" />
+      <workItem from="1742645795587" duration="835000" />
+      <workItem from="1742711910580" duration="1841000" />
+      <workItem from="1742726774082" duration="19231000" />
+      <workItem from="1742799640185" duration="1033000" />
+      <workItem from="1742802731557" duration="4310000" />
+      <workItem from="1742819687404" duration="14558000" />
+      <workItem from="1742882568203" duration="10458000" />
+      <workItem from="1742902167044" duration="8955000" />
+      <workItem from="1742923568703" duration="3832000" />
+      <workItem from="1742975469115" duration="1792000" />
+      <workItem from="1743009835205" duration="2356000" />
+      <workItem from="1743081312143" duration="12138000" />
+      <workItem from="1743160523818" duration="535000" />
+      <workItem from="1743178415697" duration="358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
