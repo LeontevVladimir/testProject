@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1d03cfa-b5e7-467e-a831-15804877fce4" name="Changes" comment="add new file">
+    <list default="true" id="a1d03cfa-b5e7-467e-a831-15804877fce4" name="Changes" comment="change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/newtest.js" beforeDir="false" afterPath="$PROJECT_DIR$/newtest.js" afterDir="false" />
     </list>
@@ -17,8 +17,41 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop_hub" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LeontevVladimir&quot;
+  }
+}</component>
+  <component name="GitLabMergeRequestFiltersHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPENED",
+    "assignee": {
+      "type": "org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue",
+      "username": "LeontevVladimir",
+      "fullname": "LeontevVladimir"
+    }
+  }
+}]]></component>
+  <component name="GitLabMergeRequestsSettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "first": "https://gitlab.com/test5225113/mytestproject.git",
+    "second": "d9f612c0-3bc0-4bf0-8404-7eb348b8e219"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeontevVladimir/testProject.git&quot;,
+    &quot;accountId&quot;: &quot;5e40e79f-8d25-40f3-90c7-7bf94ff74fad&quot;
+  }
+}</component>
   <component name="PhpDebugGeneral" notify_if_session_was_finished_without_being_paused="false" />
   <component name="PhpServers">
     <servers>
@@ -39,7 +72,7 @@
     "JavaScript Debug.index.php.executor": "Debug",
     "Node.js.alert.js.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "develop__test",
     "last_opened_file_path": "C:/Users/vova8/projects/TestFast.loc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -63,6 +96,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.alert.js" />
+        <item itemvalue="JavaScript Debug.index.php" />
+        <item itemvalue="Node.js.alert.js" />
         <item itemvalue="JavaScript Debug.index.php" />
         <item itemvalue="Node.js.alert.js" />
       </list>
@@ -130,7 +166,8 @@
       <workItem from="1743009835205" duration="2356000" />
       <workItem from="1743081312143" duration="12138000" />
       <workItem from="1743160523818" duration="535000" />
-      <workItem from="1743178415697" duration="3330000" />
+      <workItem from="1743178415697" duration="4275000" />
+      <workItem from="1743233924577" duration="792000" />
     </task>
     <task id="LOCAL-00001" summary="add new file">
       <option name="closed" value="true" />
@@ -140,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743181659098</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change">
+      <option name="closed" value="true" />
+      <created>1743181973068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743181973068</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change">
+      <option name="closed" value="true" />
+      <created>1743182259742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743182259742</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +218,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new file" />
+    <MESSAGE value="change" />
+    <option name="LAST_COMMIT_MESSAGE" value="change" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
